@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan  4 03:21:49 2020
-
-@author: dskun
-"""
-
 #!/usr/bin/python
 import praw
 import pdb
