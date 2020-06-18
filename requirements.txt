@@ -1,3 +1,6 @@
 git+https://github.com/dskunkler/WisconsinBooBot
 APScheduler==3.0.0
 praw
+pdb
+re
+os
